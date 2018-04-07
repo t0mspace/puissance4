@@ -1,0 +1,12 @@
+1. Vertical:
+	1. columns = (ex: 0,1; 1,1, 2,1, 3,1)
+	2. rows that follow themselves
+	3. same color
+
+2. Horizontal: 
+	1. colums that follow themselves= (ex: 1,0; 1,1, 1,2, 1,3)
+	2. rows =
+	3. same color
+
+3. diagonale: 
+	1. colums and rows that follow themselves= (ex: 1,1; 2,2, 3,3, 4,4)

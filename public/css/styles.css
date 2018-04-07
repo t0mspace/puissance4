@@ -1,0 +1,41 @@
+#grid{
+
+}
+
+#grid table, th, td {
+    border: 1px solid black;
+}
+#grid {
+    width: 65%;
+}
+
+#grid table{
+    width: 60rem;
+    height: 45rem;
+}
+
+#playersZones{
+    width: 30%;
+
+}
+
+.token{
+    width: 50px;
+    height: 50px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+
+    margin:1px;
+}
+.token-red{
+    background: red;
+}
+
+.token-yellow{
+    background: yellow;
+}
+.token-playing{
+    border: 1px solid #0D3349;
+}
+
